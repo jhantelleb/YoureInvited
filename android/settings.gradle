@@ -1,0 +1,3 @@
+rootProject.name = 'YoureInvited2'
+
+include ':app'
